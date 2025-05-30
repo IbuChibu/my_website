@@ -2,6 +2,8 @@
 
 This is a simple website project built with HTML, CSS, and JavaScript.  
 It includes a homepage, styling, scripts, and an image of a cat.
+It is being hosted on GitHub Pages and can be accessed here:
+https://ibuchibu.github.io/my_website/
 
 ## Project Structure
 
